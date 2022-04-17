@@ -19,7 +19,7 @@ console.log(data)
                 <p>{item.title}</p>
                 <p>{item.mrp}</p>
                 <button>Add to card</button>
-              
+               <p>Pratik Ganjale</p>
 
                 </div>
                 
